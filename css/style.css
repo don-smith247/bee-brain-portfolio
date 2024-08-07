@@ -601,6 +601,9 @@ body{
   overflow: hidden;
   --state-layer-bg: var(--on-primar);
 }
+.fa-solid{
+  color: var(--on-surface-variant);
+}
 .btn:hover:not(:focus){
   box-shadow: var(--elevation-1);
 }
